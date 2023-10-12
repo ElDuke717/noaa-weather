@@ -1,0 +1,26 @@
+{
+  "name": "noaa-weather",
+  "version": "1.0.0",
+  "description": "A simple weather app for NOAA weather.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElDuke717/noaa-weather.git"
+  },
+  "keywords": [
+    "weather",
+    "NOAA",
+    "API",
+    "local",
+    "Chestefield"
+  ],
+  "author": "Nick Huemmer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElDuke717/noaa-weather/issues"
+  },
+  "homepage": "https://github.com/ElDuke717/noaa-weather#readme"
+}

@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/ElDuke717/noaa-weather/issues"
   },
-  "homepage": "https://github.com/ElDuke717/noaa-weather#readme"
+  "homepage": "https://github.com/ElDuke717/noaa-weather#readme",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "dotenv": "^16.3.1"
+  }
 }
